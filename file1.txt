@@ -1,1 +1,3 @@
 Ward: This is a text file
+
+Wise: Yes, this is a text file
